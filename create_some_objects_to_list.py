@@ -9,4 +9,8 @@ p3=Person("Jasur")
 
 #Add these objects to the "persons" named list
 #retuen names
-print(p1.name+" " +p2.name+" "+p3.name)
+persons=[]
+persons.append(p1.name)
+persons.append(p2.name)
+persons.append(p3.name)
+print(persons)
