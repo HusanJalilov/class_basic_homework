@@ -8,4 +8,5 @@ p2=Person("Shavkat")
 p3=Person("Jasur")
 
 #Add these objects to the "persons" named list
+#retuen names
 print(p1.name+" " +p2.name+" "+p3.name)
